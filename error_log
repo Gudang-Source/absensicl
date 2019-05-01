@@ -1,0 +1,9 @@
+
+[18-Apr-2019 01:36:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[18-Apr-2019 01:37:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[18-Apr-2019 01:40:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[18-Apr-2019 01:40:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[20-Apr-2019 04:01:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[20-Apr-2019 04:03:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[20-Apr-2019 04:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
+[25-Apr-2019 07:37:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/presens2/public_html/json_hapus_data.php on line 8
